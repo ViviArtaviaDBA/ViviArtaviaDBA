@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ViviArtaviaDBA
+# 👋 Hi, I'm Vivi Artavia
 
 **Profession/Role:**  
 Senior DBA & Aspiring Data Engineer
