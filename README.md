@@ -4,8 +4,11 @@
 Senior DBA & Aspiring Data Engineer
 
 **Top Skills & Technologies:**  
-- Microsoft SQL  
+- Microsoft SQL Server
+- Microsoft SQL Server Reporting Services (SSRS)
+- Microsoft SQL Server Integration Services (SSIS)
 - Micosoft Azure SQL
+- Azure Data Factory
 - Oracle  
 - Python  
 
