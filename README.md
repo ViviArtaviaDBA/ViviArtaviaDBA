@@ -4,8 +4,8 @@
 Senior DBA & Aspiring Data Engineer
 
 **Top Skills & Technologies:**  
-- SQL  
-- Azure  
+- Microsoft SQL  
+- Micosoft Azure SQL
 - Oracle  
 - Python  
 
